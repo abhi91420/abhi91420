@@ -4,9 +4,10 @@
 ***Feel free to reach out to me to colaborate in a project***
 ## My interests 
 
-1. Python (front/back end)
-2. Java (front/back end)
+*1. Python (front/back end)*
+*2. Java (front/back end)*
 
+### Also like to work with - 
 
 ### Email - abhi91420@gmail.com
 
