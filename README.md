@@ -11,7 +11,7 @@ Credit Approval Predition
 ## Currently Working on
 
 Automating Chord Progression Generation (related to Music)
-in colaboration with 
+
 
 ## My interests 
 
