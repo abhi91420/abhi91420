@@ -18,6 +18,6 @@ I am interested in working with any API in these languages
 Credit Approval Predition
 [View Code](https://github.com/abhi91420/Credit_Approval)
 
-### Email - abhi91420@gmail.com
+### Email - <sub>abhi91420@gmail.com</sub>
 
 > [Linkedin Profile](https://www.linkedin.com/in/abhishek-guntaka-32922469/)
