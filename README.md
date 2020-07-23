@@ -36,14 +36,14 @@ I am interested in working with any API in these languages
  ```
 
 ### Other Technologies 
-
+```
 1. SQL
 2. HTML CSS
 3. Photoshop 
 4. Aws
 5. Unix
 6. JavaScript
-
+```
 ### Interested to learn
 
 1. Game engines
