@@ -24,8 +24,20 @@ I am interested in working with any API in these languages
 
 ### Other Technologies 
 
-1. HTML CSS
-2. Photoshop 
+1. SQL
+2. HTML CSS
+3. Photoshop 
+4. Aws
+
+### Interested to learn
+
+1. Game engines
+```
+  Unity
+  Cry Engine
+  RE engine
+```
+2. Game development
 
 ## Latest Project
 Credit Approval Predition
