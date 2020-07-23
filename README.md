@@ -42,6 +42,7 @@ I am interested in working with any API in these languages
 3. Photoshop 
 4. Aws
 5. Unix
+6. JavaScript
 
 ### Interested to learn
 
