@@ -15,6 +15,12 @@ I am interested in working with any API in these languages
   Data Analysis
 ```
 2. *Java (front/back end)*
+ ```
+  JDBC
+  JPA
+  Spring
+  Servlets
+ ```
 
 ### Other Technologies 
 
