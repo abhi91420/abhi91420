@@ -2,6 +2,17 @@
 ---
 ## Always looking to write code and learn
 ***Feel free to reach out to me to colaborate in a project***
+
+## Latest Project
+
+Credit Approval Predition
+[View Code](https://github.com/abhi91420/Credit_Approval)
+
+## Currently Working on
+
+Automating Chord Progression Generation (related to Music)
+in colaboration with 
+
 ## My interests 
 
 I am interested in working with any API in these languages 
@@ -16,10 +27,12 @@ I am interested in working with any API in these languages
 ```
 2. *Java (front/back end)*
  ```
+  Core
   JDBC
   JPA
   Spring
   Servlets
+  JMS
  ```
 
 ### Other Technologies 
@@ -28,6 +41,7 @@ I am interested in working with any API in these languages
 2. HTML CSS
 3. Photoshop 
 4. Aws
+5. Unix
 
 ### Interested to learn
 
@@ -38,10 +52,6 @@ I am interested in working with any API in these languages
   RE engine
 ```
 2. Game development
-
-## Latest Project
-Credit Approval Predition
-[View Code](https://github.com/abhi91420/Credit_Approval)
 
 **Email** - <sub>abhi91420@gmail.com</sub>
 
