@@ -7,6 +7,13 @@
 I am interested in working with any API in these languages 
 
 1. *Python (front/back end)*
+```
+  Selenium Automation
+  Image and Video processing
+  Machine Learning
+  Data Science
+  Data Analysis
+```
 2. *Java (front/back end)*
 
 ### Other Technologies 
