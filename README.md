@@ -4,10 +4,15 @@
 ***Feel free to reach out to me to colaborate in a project***
 ## My interests 
 
-*1. Python (front/back end)
-2. Java (front/back end)*
+I am interested in working with any API in these languages 
 
-### Also like to work with - 
+1. *Python (front/back end)*
+2. *Java (front/back end)*
+
+### Other Technologies 
+
+1. HTML CSS
+2. Photoshop 
 
 ### Email - abhi91420@gmail.com
 
