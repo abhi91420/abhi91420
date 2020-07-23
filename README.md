@@ -13,7 +13,4 @@
 
 ### Email - abhi91420@gmail.com
 
-LINKS-
-
 > [Linkedin](https://www.linkedin.com/in/abhishek-guntaka-32922469/)
-> [Website]()
