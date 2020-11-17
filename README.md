@@ -10,7 +10,7 @@ Credit Approval Predition
 
 ## Currently Working on
 
-Automating Chord Progression Generation (related to Music)
+Automating Resume
 
 
 ## My interests 
