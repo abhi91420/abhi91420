@@ -5,12 +5,12 @@
 
 ## Latest Project
 
-Credit Approval Predition
-[View Code](https://github.com/abhi91420/Credit_Approval)
+Automating Resume
+[View Code](https://github.com/abhi91420/Resume_Automation)
 
 ## Currently Working on
 
-Automating Resume
+Automating Resume v1.1
 
 
 ## My interests 
